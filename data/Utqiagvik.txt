@@ -1,0 +1,618 @@
+University of Alaska Fairbanks  |  Alaska Climate Adaptation Science Center
+Home
+About
+Credits
+Data
+Places
+Northern Climate Reports
+Ecological futures in stories, charts, and data
+
+A changing climate is altering Northern landscapes.
+Explore these changes with easy-to-understand climate model projections.
+Projected Conditions for Utqiaġvik (Barrow)
+In Utqiaġvik (Barrow),
+average annual temperatures
+may increase by about 18°F by the end of the century.
+
+Winter temperatures are projected to increase the most (+31°F).
+
+Models have higher uncertainty with regard to precipitation,
+but summer is likely to have more precipitation (+76%).
+
+In the past, this area had very low flammability. Future flammability may be about the same.
+
+Based on climate and fire-driven shifts, vegetation in this area may be notably different by the end of the century.
+
+Summary across all models and scenarios. See tables and sections below for more detailed information and definitions.
+
+Introduction
+The tables and charts below are specific to the gridded data extracted from the location of Utqiaġvik (Barrow), indicated by a marker on the map above. The shaded region on the map is the nearest watershed (hydrological unit, level 12) and is only used to summarize wildfire data around this place.
+
+The average (mean) elevation near this point is 20ft above sea level. The minimum elevation is 0ft and the maximum elevation is 59ft, which should be kept in mind when interpreting these results.
+
+The sections below show output from different scientific simulations of possible future conditions for temperature, precipitation, hydrology, flammability, and vegetation change. These simulations use different Global Climate Models (GCMs)—climate models—such as the National Center for Atmospheric Research Community Climate System Model 4.0 (NCAR CCSM4).
+
+These climate models use Representative Concentration Pathways (RCPs) to compare different future greenhouse gas emissions scenarios. Compared to current emissions RCP 4.5 is a scenario representing a reduction in global emissions, while RCP 8.5 represents a scenario similar to, or possibly higher than, current global emissions trajectories. RCP 6.0 is between these two trajectories. Read more about climate models and RCPs.
+
+Some of the data has been averaged by season.
+
+Winter is December, January and February,
+Spring is March, April and May,
+Summer is June, July and August,
+Fall is September, October and November.
+Click the  icon in the upper–right of charts to get a hi-res download.
+
+You can display these visualizations in Imperial or metric units.
+
+Units
+Contents
+Temperature charts and tables with multiple models and scenarios, grouped decadally and into mid/late century
+Precipitation charts and tables with multiple models and scenarios, grouped decadally and into mid/late century
+Hydrology charts with multiple variables, models, and scenarios, grouped decadally and by month of the year.
+Wildfire charts of flammability and vegetation change with with multiple models and scenarios
+The following data is not available at this location:
+Temperature
+This section shows projections for average (mean) temperature, compared with a historical range (1950–2009, CRU TS 4.0). Results are averaged by season (three month averages) for two specific climate models (MRI CGCM3 and NCAR CCSM4) as well as average of five models which perform well in Alaska and the Arctic. See information about the dataset shown here.
+
+Season
+Temperature, Utqiaġvik (Barrow), 1950–2099
+Season	Historical (1950–2009)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4
+Winter	-13.9°F	-8°F
++5.9
+-2.7°F
++11.2
+-3.3°F
++10.6
+3°F
++16.9
+-3.5°F
++10.4
+3.2°F
++17.1
+4.3°F
++18.2
+17.2°F
++31.1
+Spring	1.4°F	3.7°F
++2.3
+7.3°F
++5.9
+4.8°F
++3.4
+9.5°F
++8.1
+3.9°F
++2.5
+8.8°F
++7.4
+9.7°F
++8.3
+16.3°F
++14.9
+Summer	37.2°F	38.5°F
++1.3
+40.3°F
++3.1
+39.6°F
++2.4
+41.5°F
++4.3
+38.8°F
++1.6
+40.8°F
++3.6
+41°F
++3.8
+45.1°F
++7.9
+Fall	15.3°F	20.7°F
++5.4
+24.6°F
++9.3
+23.7°F
++8.4
+27.3°F
++12.0
+23.7°F
++8.4
+26.8°F
++11.5
+27.7°F
++12.4
+31.5°F
++16.2
+Values show averages for the indicated date ranges. Red text means warmer temperatures. Read more about models and emissions scenarios.
+Temperature Indicators
+“Indicators” are a tool that help us understand data. We can link indicators to specific impacts or risks.
+Temperature Indicators, Utqiaġvik (Barrow), 1950–2099
+Indicator	Historical (1988–2017)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4
+Very Cold Day Threshold Only 5 days in a year are colder than this	-38.9°F	-36°F
++2.9
+-33.3°F
++5.6
+-32.1°F
++6.8
+-29.2°F
++9.7
+-32.4°F
++6.5
+-29.2°F
++9.7
+-26.7°F
++12.2
+-18.2°F
++20.7
+Very Hot Day Threshold Only 5 days in a year are warmer than this	59.4°F	61.3°F
++1.9
+63.9°F
++4.5
+61.7°F
++2.3
+64°F
++4.6
+61.7°F
++2.3
+64°F
++4.6
+62.6°F
++3.2
+67.6°F
++8.2
+Summer Days Temperature above 77°F	0	0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Deep Winter Days Temperature below -22°F	60	39
+−21
+29
+−31
+30
+−30
+17
+−43
+29
+−31
+20
+−40
+13
+−47
+3
+−57
+Warm Spell Duration Index Heat wave metric: the number of hot days (> 90th percentile) occurring in a row following an initial warm spell period of six days.	5	33
++28
+45
++40
+51
++46
+73
++68
+47
++42
+54
++49
+89
++84
+127
++122
+Cold Spell Duration Index Cold spell metric: the number of cold days (< 10th percentile) occurring in a row following an initial cold spell period of six days.	5	3
+−2
+1
+−4
+1
+−4
+0
+−5
+3
+−2
+0
+−5
+0
+−5
+0
+−5
+Values indicate mean values for the time range specified. Red text means warmer, blue means colder. Bold text indicates greater change. Read more about the dataset and processing used to generate these data.
+
+Precipitation
+This section shows projections for average (mean) precipitation, compared with a historical range (1950–2009, CRU TS 4.0). Results are averaged by season (three month averages) for two specific climate models (MRI CGCM3 and NCAR CCSM4) as well as average of five models which perform well in Alaska and the Arctic. Models have higher uncertainty with regard to precipitation. See information about the dataset shown here.
+
+Season
+Precipitation, Utqiaġvik (Barrow), 1950–2099
+Season	Historical (1950–2009)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4
+Winter	1.3in	1.4in
++9%
+1.6in
++21%
+1.5in
++12%
+1.7in
++30%
+1.5in
++15%
+1.7in
++33%
+1.8in
++36%
+2.1in
++61%
+Spring	1in	1in
++4%
+1.3in
++32%
+1.1in
++16%
+1.4in
++40%
+1.1in
++8%
+1.3in
++36%
+1.4in
++44%
+1.4in
++44%
+Summer	2.7in	3.6in
++34%
+3.2in
++21%
+3.9in
++44%
+3.3in
++25%
+4in
++49%
+3.3in
++22%
+4.7in
++76%
+3.9in
++46%
+Fall	2.3in	2.4in
++2%
+2.6in
++12%
+2.6in
++12%
+2.9in
++25%
+2.6in
++10%
+3in
++27%
+2.8in
++20%
+3.2in
++37%
+Values show averages for the indicated date ranges. Bold text indicates greater change. Read more about models and emissions scenarios.
+Precipitation Indicators
+“Indicators” are a tool that help us understand data. We can link indicators to specific impacts or risks.
+Precipitation Indicators, Utqiaġvik (Barrow), 1950–2099
+Indicator	Historical (1988–2017)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4
+Maximum 1-day Precipitation	0.4in	0.8in
++100%
+0.6in
++50%
+0.7in
++75%
+0.8in
++100%
+0.8in
++100%
+0.6in
++50%
+0.7in
++75%
+0.7in
++75%
+Maximum 5-day Precipitation	0.7in	1.3in
++86%
+1.1in
++57%
+1.2in
++71%
+1.5in
++114%
+1.3in
++86%
+1.1in
++57%
+1.2in
++71%
+1.2in
++71%
+Consecutive Wet Days > 0.04in precipitation	3	4
++1
+4
++1
+4
++1
+4
++1
+3
+0
+4
++1
+4
++1
+4
++1
+Consecutive Dry Days < 0.04in precipitation	93	119
++26
+120
++27
+126
++33
+116
++23
+121
++28
+124
++31
+106
++13
+102
++9
+Heavy precipitation days 1-day precipitation ≥ 0.39in	0	1
++1
+1
++1
+2
++2
+2
++2
+2
++2
+2
++2
+2
++2
+2
++2
+Values indicate mean values for the time range specified. Bold text indicates greater change. Read more about the dataset and processing used to generate these data.
+
+Hydrology
+This section provides access to historical and projected modeled decadal summaries of hydrologic data for Alaska at a resolution of 12km. These data were derived by applying the Variable Infiltration Capacity (VIC) model to downscaled CMIP5 historical and projected climate data, using RCP 4.5 and RCP 8.5 emissions scenarios.
+
+The tables below show the minimum, mean and maximum values for the annual means across 3 models: CanESM2, GFDL ESM2M, and NCAR CCSM4 and 2 scenarios: RCP 4.5 and RCP 8.5 for each of the given eras.
+
+Model
+Evapotranspiration, Utqiaġvik (Barrow), 1950–2099, CanESM2 model
+Season	Historical (Modeled, 1950–2009)	Early–Century (2010–2039)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+Spring	0.6 in/season	0.6 in/season
+0
+0.6 in/season
+0
+0.6 in/season
+0
+0.5 in/season
+−0.1
+0.5 in/season
+−0.1
+0.4 in/season
+−0.2
+Summer	1.3 in/season	1.6 in/season
++0.3
+1.7 in/season
++0.4
+1.9 in/season
++0.6
+2.1 in/season
++0.8
+2.2 in/season
++0.9
+2.5 in/season
++1.2
+Fall	-0.1 in/season	0 in/season
++0.1
+0 in/season
++0.1
+0 in/season
++0.1
+0 in/season
++0.1
+0 in/season
++0.1
+0.1 in/season
++0.2
+Winter	-0.1 in/season	-0.1 in/season
+0
+-0.1 in/season
+0
+-0.2 in/season
+−0.1
+-0.2 in/season
+−0.1
+-0.2 in/season
+−0.1
+-0.2 in/season
+−0.1
+Values show averages for the indicated date ranges. Bold text indicates greater change. Read more about models and emissions scenarios.
+Runoff, Utqiaġvik (Barrow), 1950–2099, CanESM2 model
+Season	Historical (Modeled, 1950–2009)	Early–Century (2010–2039)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+Spring	0.4 in/season	0.4 in/season
+0
+0.6 in/season
++0.2
+0.4 in/season
+0
+0.2 in/season
+−0.2
+0.3 in/season
+−0.1
+0.3 in/season
+−0.1
+Summer	0.8 in/season	0.7 in/season
+−0.1
+0.7 in/season
+−0.1
+0.8 in/season
+0
+0.8 in/season
+0
+1 in/season
++0.2
+0.6 in/season
+−0.2
+Fall	0.2 in/season	0.3 in/season
++0.1
+0.3 in/season
++0.1
+0.3 in/season
++0.1
+0.2 in/season
+0
+0.3 in/season
++0.1
+0.3 in/season
++0.1
+Winter	0 in/season	0 in/season
+0
+0 in/season
+0
+0 in/season
+0
+0 in/season
+0
+0 in/season
+0
+0.2 in/season
++0.2
+Values show averages for the indicated date ranges. Bold text indicates greater change. Read more about models and emissions scenarios.
+Evapotranspiration, Utqiaġvik (Barrow), 1950–2100
+Model
+Scenario
+CanESM2, RCP 4.5
+Historical (1950–2009)	Early-Century (2010–2039)	Mid-Century (2040–2069)	Late-Century (2070–2099)
+Spring	
+Summer	
+Fall	
+Winter	
+Evapotranspiration
+<0 in/season
+≥0 in/season, <0.4 in/season
+≥0.4 in/season, <0.8 in/season
+≥0.8 in/season, <1.2 in/season
+≥1.2 in/season, <2.4 in/season
+≥2.4 in/season, <3.5 in/season
+≥3.5 in/season
+Runoff, Utqiaġvik (Barrow), 1950–2100
+Model
+Scenario
+CanESM2, RCP 4.5
+Historical (1950–2009)	Early-Century (2010–2039)	Mid-Century (2040–2069)	Late-Century (2070–2099)
+Spring	
+Summer	
+Fall	
+Winter	
+Runoff
+<0.6 in/season
+≥0.6 in/season, <1.2 in/season
+≥1.2 in/season, <2.4 in/season
+≥2.4 in/season, <3.5 in/season
+≥3.5 in/season
+
+Wildfire: Flammability and Vegetation
+The following maps and charts show the historical and projected flammability and vegetation change for this location, computed using the ALFRESCO model.
+
+Flammability is defined as the percentage of times the pixel at this location has burned in model simulations. All data shown, including historical time periods, are model ouputs.
+
+Data shown in the charts below are the average for the watershed (HUC level 12 ID 190602020203) which contains the pixel location for Utqiaġvik (Barrow).
+
+Water, urbanized areas, and mountainous regions are not modeled in the ALFRESCO models. Pixels which are not modeled are shown as white.
+
+See information about the dataset shown here.
+
+Flammability, Utqiaġvik (Barrow), 1950–2099
+Model
+1950-1979
+(Modeled) Historical
+1980-2008
+(Modeled) Historical
+2010-2039
+NCAR CCSM4, RCP 4.5
+2040-2069
+NCAR CCSM4, RCP 4.5
+2070-2099
+NCAR CCSM4, RCP 4.5
+2010-2039
+NCAR CCSM4, RCP 8.5
+2040-2069
+NCAR CCSM4, RCP 8.5
+2070-2099
+NCAR CCSM4, RCP 8.5
+This table is a legend for the maps above, and explains different categories of modeled fire activity shown on the chart below. These categories are also used in the short blurb in the introduction to this report.
+
+Flammability	Interpretation
+ Not modeled or no data	-	This pixel was not modeled or is not included in the dataset
+ Very Low	<0.2%	Fire is absent or very rare
+ Low	≥0.2%, <0.5%	Fire is rare, and unlikely to be the primary driver of vegetation patterns on this landscape
+ Moderate	≥0.5%, <1%	Fire is frequent enough to partially define the vegetation patterns on this landscape
+ High	≥1%, <2%	Fire is more frequent and more dominant in determining vegetation patterns on this landscape
+ Very High	≥2%	Fire is highly frequent and dominates the vegetation patterns on this landscape
+Hovering over the future eras shown on the chart shows the difference between 1980–2009 and the future era.
+
+
+Due to the inherent uncertainty involved in predicting vegetation transitions driven by climate and wildfire or by climate alone, the maps below should not be interpreted as vegetation predictions at specific locations, but rather as an indicator of likely general trends in ecological suitability for particular vegetation type over time. Each map–pixel shows the most commonly predicted vegetation type (modal value) based on 200 model runs per year across all years in the map’s date range. Some ecological regions in the far north are projected to undergo marked changes, and others little or no change.
+
+Vegetation type, Utqiaġvik (Barrow), 1950–2099
+Model
+1950-2008
+(Modeled) Historical
+2010-2039
+NCAR CCSM4, RCP 4.5
+2040-2069
+NCAR CCSM4, RCP 4.5
+2070-2099
+NCAR CCSM4, RCP 4.5
+2010-2039
+NCAR CCSM4, RCP 8.5
+2040-2069
+NCAR CCSM4, RCP 8.5
+2070-2099
+NCAR CCSM4, RCP 8.5
+Not Modeled
+Barren/Lichen/Moss
+Black Spruce
+Deciduous Forest
+Graminoid Tundra
+Shrub Tundra
+Temperate Rainforest
+Wetland Tundra
+White Spruce
+Model
+
+UAF Logo
+Developed by the Scenarios Network for Alaska + Arctic Planning at the International Arctic Research Center.
+
+Funding was provided by the Alaska Climate Adaptation Science Center and the United States Geological Survey.
+
+Please contact uaf-snap-data-tools@alaska.edu with questions or comments. Visit the SNAP website to see all of our climate tools.
+
+Usage of data provided through this tool is subject to license constraints. See the data page for details.
+
+UA is committed to providing accessible websites. Learn more about UA's notice of web accessibility. If we can help you access this website’s content, please email us at uaf-snap-data-tools@alaska.edu.
+
+Copyright © 2024 University of Alaska Fairbanks. All rights reserved.
+UA is an affirmative action / equal opportunity employer, educational institution and provider and prohibits illegal discrimination against any individual.
+Statement of Nondiscrimination and Privacy Statement

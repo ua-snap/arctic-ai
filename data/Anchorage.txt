@@ -1,0 +1,648 @@
+University of Alaska Fairbanks  |  Alaska Climate Adaptation Science Center
+Home
+About
+Credits
+Data
+Places
+Northern Climate Reports
+Ecological futures in stories, charts, and data
+
+A changing climate is altering Northern landscapes.
+Explore these changes with easy-to-understand climate model projections.
+Projected Conditions for Anchorage (Dgheyaytnu)
+In Anchorage (Dgheyaytnu),
+average annual temperatures
+may increase by about 13°F by the end of the century.
+
+Winter temperatures are projected to increase the most (+16°F).
+
+Models have higher uncertainty with regard to precipitation,
+but spring is likely to have more precipitation (+48%).
+
+In the past, this area had very low flammability. By the mid–century, flammability may increase to low. By the late–century, flammability may increase to moderate compared with historical flammability.
+
+Based on climate and fire-driven shifts, vegetation in this area may be notably different by the end of the century.
+
+Summary across all models and scenarios. See tables and sections below for more detailed information and definitions.
+
+Introduction
+The tables and charts below are specific to the gridded data extracted from the location of Anchorage (Dgheyaytnu), indicated by a marker on the map above. The shaded region on the map is the nearest watershed (hydrological unit, level 12) and is only used to summarize wildfire data around this place.
+
+The average (mean) elevation near this point is 69ft above sea level. The minimum elevation is 30ft and the maximum elevation is 121ft, which should be kept in mind when interpreting these results.
+
+The sections below show output from different scientific simulations of possible future conditions for temperature, precipitation, hydrology, permafrost, flammability, and vegetation change. These simulations use different Global Climate Models (GCMs)—climate models—such as the National Center for Atmospheric Research Community Climate System Model 4.0 (NCAR CCSM4).
+
+These climate models use Representative Concentration Pathways (RCPs) to compare different future greenhouse gas emissions scenarios. Compared to current emissions RCP 4.5 is a scenario representing a reduction in global emissions, while RCP 8.5 represents a scenario similar to, or possibly higher than, current global emissions trajectories. RCP 6.0 is between these two trajectories. Read more about climate models and RCPs.
+
+Some of the data has been averaged by season.
+
+Winter is December, January and February,
+Spring is March, April and May,
+Summer is June, July and August,
+Fall is September, October and November.
+Click the  icon in the upper–right of charts to get a hi-res download.
+
+You can display these visualizations in Imperial or metric units.
+
+Units
+Contents
+Temperature charts and tables with multiple models and scenarios, grouped decadally and into mid/late century
+Precipitation charts and tables with multiple models and scenarios, grouped decadally and into mid/late century
+Hydrology charts with multiple variables, models, and scenarios, grouped decadally and by month of the year.
+Permafrost with specific visualizations depending on the presence or absence of permafrost
+Wildfire charts of flammability and vegetation change with with multiple models and scenarios
+The following data is not available at this location:
+Temperature
+This section shows projections for average (mean) temperature, compared with a historical range (1950–2009, CRU TS 4.0). Results are averaged by season (three month averages) for two specific climate models (MRI CGCM3 and NCAR CCSM4) as well as average of five models which perform well in Alaska and the Arctic. See information about the dataset shown here.
+
+Season
+Temperature, Anchorage (Dgheyaytnu), 1950–2099
+Season	Historical (1950–2009)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4
+Winter	16.2°F	21.6°F
++5.4
+23°F
++6.8
+23°F
++6.8
+25.3°F
++9.1
+23.9°F
++7.7
+25.5°F
++9.3
+26.8°F
++10.6
+31.6°F
++15.4
+Spring	35.8°F	39.9°F
++4.1
+41.9°F
++6.1
+41.4°F
++5.6
+43.3°F
++7.5
+41.7°F
++5.9
+43.5°F
++7.7
+44.1°F
++8.3
+48°F
++12.2
+Summer	56.3°F	58.5°F
++2.2
+62.2°F
++5.9
+59.7°F
++3.4
+63.1°F
++6.8
+59.4°F
++3.1
+63.5°F
++7.2
+61.7°F
++5.4
+66.6°F
++10.3
+Fall	35.4°F	38.3°F
++2.9
+39.9°F
++4.5
+39.4°F
++4.0
+41.9°F
++6.5
+40.3°F
++4.9
+41.4°F
++6.0
+41.7°F
++6.3
+45.9°F
++10.5
+Values show averages for the indicated date ranges. Red text means warmer temperatures. Read more about models and emissions scenarios.
+Temperature Indicators
+“Indicators” are a tool that help us understand data. We can link indicators to specific impacts or risks.
+Temperature Indicators, Anchorage (Dgheyaytnu), 1950–2099
+Indicator	Historical (1988–2017)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4
+Very Cold Day Threshold Only 5 days in a year are colder than this	-10.5°F	-5.1°F
++5.4
+-4.4°F
++6.1
+-2.6°F
++7.9
+-0.9°F
++9.6
+-3.8°F
++6.7
+0°F
++10.5
+-1.7°F
++8.8
+2.1°F
++12.6
+Very Hot Day Threshold Only 5 days in a year are warmer than this	73.6°F	77°F
++3.4
+78.6°F
++5.0
+77.7°F
++4.1
+81.7°F
++8.1
+78.3°F
++4.7
+80.6°F
++7.0
+79.2°F
++5.6
+85.6°F
++12.0
+Summer Days Temperature above 77°F	1	7
++6
+10
++9
+7
++6
+19
++18
+9
++8
+18
++17
+13
++12
+42
++41
+Deep Winter Days Temperature below -22°F	0	0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Warm Spell Duration Index Heat wave metric: the number of hot days (> 90th percentile) occurring in a row following an initial warm spell period of six days.	6	41
++35
+57
++51
+55
++49
+93
++87
+67
++61
+79
++73
+100
++94
+178
++172
+Cold Spell Duration Index Cold spell metric: the number of cold days (< 10th percentile) occurring in a row following an initial cold spell period of six days.	6	1
+−5
+1
+−5
+0
+−6
+2
+−4
+0
+−6
+1
+−5
+0
+−6
+0
+−6
+Values indicate mean values for the time range specified. Red text means warmer, blue means colder. Bold text indicates greater change. Read more about the dataset and processing used to generate these data.
+
+Precipitation
+This section shows projections for average (mean) precipitation, compared with a historical range (1950–2009, CRU TS 4.0). Results are averaged by season (three month averages) for two specific climate models (MRI CGCM3 and NCAR CCSM4) as well as average of five models which perform well in Alaska and the Arctic. Models have higher uncertainty with regard to precipitation. See information about the dataset shown here.
+
+Season
+Precipitation, Anchorage (Dgheyaytnu), 1950–2099
+Season	Historical (1950–2009)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4
+Winter	2.9in	3.8in
++33%
+3.5in
++22%
+3.5in
++23%
+3.6in
++25%
+4.1in
++44%
+3.4in
++19%
+4.1in
++42%
+3.9in
++34%
+Spring	1.8in	2.5in
++39%
+2.4in
++35%
+2.6in
++46%
+2.5in
++37%
+2.5in
++39%
+2.4in
++33%
+2.7in
++48%
+2.6in
++46%
+Summer	5.6in	6.3in
++12%
+6.1in
++10%
+5.9in
++6%
+5.7in
++3%
+6.4in
++14%
+6.1in
++9%
+6.3in
++13%
+6.5in
++15%
+Fall	5.8in	6.9in
++19%
+6.7in
++15%
+6.9in
++19%
+6.9in
++18%
+7.6in
++32%
+6.6in
++14%
+7.5in
++29%
+7.3in
++26%
+Values show averages for the indicated date ranges. Bold text indicates greater change. Read more about models and emissions scenarios.
+Precipitation Indicators
+“Indicators” are a tool that help us understand data. We can link indicators to specific impacts or risks.
+Precipitation Indicators, Anchorage (Dgheyaytnu), 1950–2099
+Indicator	Historical (1988–2017)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4
+Maximum 1-day Precipitation	1in	1.4in
++40%
+1.3in
++30%
+1.4in
++40%
+1.3in
++30%
+1.6in
++60%
+1.2in
++20%
+1.4in
++40%
+1.4in
++40%
+Maximum 5-day Precipitation	2.1in	3.1in
++48%
+2.8in
++33%
+3.1in
++48%
+2.8in
++33%
+3.5in
++67%
+2.5in
++19%
+3.1in
++48%
+2.9in
++38%
+Consecutive Wet Days > 0.04in precipitation	6	8
++2
+9
++3
+8
++2
+7
++1
+7
++1
+7
++1
+8
++2
+7
++1
+Consecutive Dry Days < 0.04in precipitation	32	40
++8
+44
++12
+36
++4
+39
++7
+34
++2
+37
++5
+40
++8
+40
++8
+Heavy precipitation days 1-day precipitation ≥ 0.39in	7	14
++7
+12
++5
+13
++6
+13
++6
+14
++7
+11
++4
+13
++6
+13
++6
+Values indicate mean values for the time range specified. Bold text indicates greater change. Read more about the dataset and processing used to generate these data.
+
+Hydrology
+This section provides access to historical and projected modeled decadal summaries of hydrologic data for Alaska at a resolution of 12km. These data were derived by applying the Variable Infiltration Capacity (VIC) model to downscaled CMIP5 historical and projected climate data, using RCP 4.5 and RCP 8.5 emissions scenarios.
+
+The tables below show the minimum, mean and maximum values for the annual means across 3 models: CanESM2, GFDL ESM2M, and NCAR CCSM4 and 2 scenarios: RCP 4.5 and RCP 8.5 for each of the given eras.
+
+Model
+Evapotranspiration, Anchorage (Dgheyaytnu), 1950–2099, CanESM2 model
+Season	Historical (Modeled, 1950–2009)	Early–Century (2010–2039)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+Spring	3.3 in/season	3.9 in/season
++0.6
+4.1 in/season
++0.8
+4.5 in/season
++1.2
+4.7 in/season
++1.4
+4.7 in/season
++1.4
+5.5 in/season
++2.2
+Summer	9.8 in/season	9.9 in/season
++0.1
+10.4 in/season
++0.6
+9.9 in/season
++0.1
+10.3 in/season
++0.5
+9.9 in/season
++0.1
+9.3 in/season
+−0.5
+Fall	1.3 in/season	1.5 in/season
++0.2
+1.5 in/season
++0.2
+1.7 in/season
++0.4
+1.8 in/season
++0.5
+1.7 in/season
++0.4
+1.8 in/season
++0.5
+Winter	-0.2 in/season	-0.2 in/season
+0
+-0.2 in/season
+0
+-0.1 in/season
++0.1
+0 in/season
++0.2
+-0.1 in/season
++0.1
+0.1 in/season
++0.3
+Values show averages for the indicated date ranges. Bold text indicates greater change. Read more about models and emissions scenarios.
+Runoff, Anchorage (Dgheyaytnu), 1950–2099, CanESM2 model
+Season	Historical (Modeled, 1950–2009)	Early–Century (2010–2039)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+Spring	0.7 in/season	0.7 in/season
+0
+0.7 in/season
+0
+0.6 in/season
+−0.1
+0.5 in/season
+−0.2
+0.6 in/season
+−0.1
+0.3 in/season
+−0.4
+Summer	0.4 in/season	0.4 in/season
+0
+0.3 in/season
+−0.1
+0.4 in/season
+0
+0.4 in/season
+0
+0.4 in/season
+0
+0.4 in/season
+0
+Fall	0.4 in/season	0.6 in/season
++0.2
+0.6 in/season
++0.2
+0.6 in/season
++0.2
+0.7 in/season
++0.3
+0.7 in/season
++0.3
+0.7 in/season
++0.3
+Winter	0.1 in/season	0.4 in/season
++0.3
+0.5 in/season
++0.4
+0.5 in/season
++0.4
+0.7 in/season
++0.6
+0.6 in/season
++0.5
+0.6 in/season
++0.5
+Values show averages for the indicated date ranges. Bold text indicates greater change. Read more about models and emissions scenarios.
+Evapotranspiration, Anchorage (Dgheyaytnu), 1950–2100
+Model
+Scenario
+CanESM2, RCP 4.5
+Historical (1950–2009)	Early-Century (2010–2039)	Mid-Century (2040–2069)	Late-Century (2070–2099)
+Spring	
+Summer	
+Fall	
+Winter	
+Evapotranspiration
+<0 in/season
+≥0 in/season, <0.4 in/season
+≥0.4 in/season, <0.8 in/season
+≥0.8 in/season, <1.2 in/season
+≥1.2 in/season, <2.4 in/season
+≥2.4 in/season, <3.5 in/season
+≥3.5 in/season
+Runoff, Anchorage (Dgheyaytnu), 1950–2100
+Model
+Scenario
+CanESM2, RCP 4.5
+Historical (1950–2009)	Early-Century (2010–2039)	Mid-Century (2040–2069)	Late-Century (2070–2099)
+Spring	
+Summer	
+Fall	
+Winter	
+Runoff
+<0.6 in/season
+≥0.6 in/season, <1.2 in/season
+≥1.2 in/season, <2.4 in/season
+≥2.4 in/season, <3.5 in/season
+≥3.5 in/season
+
+Permafrost
+The following maps show the projected mean annual ground temperature over time at a depth of about 3 feet. See information about the dataset shown here.
+Mean annual ground temperature at about 3 feet depth, Anchorage (Dgheyaytnu), 2021–2100
+Model
+2021-2039
+GFDL CM3, RCP 4.5
+2040-2069
+GFDL CM3, RCP 4.5
+2070-2099
+GFDL CM3, RCP 4.5
+2021-2039
+GFDL CM3, RCP 8.5
+2040-2069
+GFDL CM3, RCP 8.5
+2070-2099
+GFDL CM3, RCP 8.5
+This table is a legend for the maps above.
+
+Category	Mean Annual Ground Temperature
+ Continuous Permafrost	<21°F
+ Cold Discontinuous	≥21°F, <25°F
+ Discontinuous	≥25°F, <28°F
+ Cold Sporadic	≥28°F, <30°F
+ Sporadic	≥30°F, <32°F
+ Permafrost Possible	≥32°F, <34°F
+ Permafrost Unlikely	≥34°F, <36°F
+ No Permafrost	≥36°F
+As permafrost thaws, the ground depth to the top of the permafrost layer increases. The following chart shows how this depth is projected to change over time.
+
+Wildfire: Flammability and Vegetation
+The following maps and charts show the historical and projected flammability and vegetation change for this location, computed using the ALFRESCO model.
+
+Flammability is defined as the percentage of times the pixel at this location has burned in model simulations. All data shown, including historical time periods, are model ouputs.
+
+Data shown in the charts below are the average for the watershed (HUC level 12 ID 190204010808) which contains the pixel location for Anchorage (Dgheyaytnu).
+
+Water, urbanized areas, and mountainous regions are not modeled in the ALFRESCO models. Pixels which are not modeled are shown as white.
+
+See information about the dataset shown here.
+
+Flammability, Anchorage (Dgheyaytnu), 1950–2099
+Model
+1950-1979
+(Modeled) Historical
+1980-2008
+(Modeled) Historical
+2010-2039
+NCAR CCSM4, RCP 4.5
+2040-2069
+NCAR CCSM4, RCP 4.5
+2070-2099
+NCAR CCSM4, RCP 4.5
+2010-2039
+NCAR CCSM4, RCP 8.5
+2040-2069
+NCAR CCSM4, RCP 8.5
+2070-2099
+NCAR CCSM4, RCP 8.5
+This table is a legend for the maps above, and explains different categories of modeled fire activity shown on the chart below. These categories are also used in the short blurb in the introduction to this report.
+
+Flammability	Interpretation
+ Not modeled or no data	-	This pixel was not modeled or is not included in the dataset
+ Very Low	<0.2%	Fire is absent or very rare
+ Low	≥0.2%, <0.5%	Fire is rare, and unlikely to be the primary driver of vegetation patterns on this landscape
+ Moderate	≥0.5%, <1%	Fire is frequent enough to partially define the vegetation patterns on this landscape
+ High	≥1%, <2%	Fire is more frequent and more dominant in determining vegetation patterns on this landscape
+ Very High	≥2%	Fire is highly frequent and dominates the vegetation patterns on this landscape
+Hovering over the future eras shown on the chart shows the difference between 1980–2009 and the future era.
+
+
+Due to the inherent uncertainty involved in predicting vegetation transitions driven by climate and wildfire or by climate alone, the maps below should not be interpreted as vegetation predictions at specific locations, but rather as an indicator of likely general trends in ecological suitability for particular vegetation type over time. Each map–pixel shows the most commonly predicted vegetation type (modal value) based on 200 model runs per year across all years in the map’s date range. Some ecological regions in the far north are projected to undergo marked changes, and others little or no change.
+
+Vegetation type, Anchorage (Dgheyaytnu), 1950–2099
+Model
+1950-2008
+(Modeled) Historical
+2010-2039
+NCAR CCSM4, RCP 4.5
+2040-2069
+NCAR CCSM4, RCP 4.5
+2070-2099
+NCAR CCSM4, RCP 4.5
+2010-2039
+NCAR CCSM4, RCP 8.5
+2040-2069
+NCAR CCSM4, RCP 8.5
+2070-2099
+NCAR CCSM4, RCP 8.5
+Not Modeled
+Barren/Lichen/Moss
+Black Spruce
+Deciduous Forest
+Graminoid Tundra
+Shrub Tundra
+Temperate Rainforest
+Wetland Tundra
+White Spruce
+Model
+
+UAF Logo
+Developed by the Scenarios Network for Alaska + Arctic Planning at the International Arctic Research Center.
+
+Funding was provided by the Alaska Climate Adaptation Science Center and the United States Geological Survey.
+
+Please contact uaf-snap-data-tools@alaska.edu with questions or comments. Visit the SNAP website to see all of our climate tools.
+
+Usage of data provided through this tool is subject to license constraints. See the data page for details.
+
+UA is committed to providing accessible websites. Learn more about UA's notice of web accessibility. If we can help you access this website’s content, please email us at uaf-snap-data-tools@alaska.edu.
+
+Copyright © 2024 University of Alaska Fairbanks. All rights reserved.
+UA is an affirmative action / equal opportunity employer, educational institution and provider and prohibits illegal discrimination against any individual.
+Statement of Nondiscrimination and Privacy Statement

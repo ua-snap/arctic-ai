@@ -1,0 +1,716 @@
+University of Alaska Fairbanks  |  Alaska Climate Adaptation Science Center
+Home
+About
+Credits
+Data
+Places
+Northern Climate Reports
+Ecological futures in stories, charts, and data
+
+A changing climate is altering Northern landscapes.
+Explore these changes with easy-to-understand climate model projections.
+Projected Conditions for Fairbanks
+In Fairbanks,
+average annual temperatures
+may increase by about 13°F by the end of the century.
+
+Winter temperatures are projected to increase the most (+18°F).
+
+Spring and fall may transition from below freezing
+to above freezing in the future.
+
+Models have higher uncertainty with regard to precipitation,
+but spring is likely to have more precipitation (+88%).
+
+Models indicate that permafrost degradation may occur at a rate of 3.9 inches per year.
+
+In the past, this area had moderate flammability. Future flammability may be about the same (+30% by late century).
+
+Based on climate and fire-driven shifts, vegetation in this area may be notably different by the end of the century.
+
+Historically, climate conditions were highly protective against spruce beetle outbreaks. Under normal snow conditions, climate conditions in the future may provide about the same protection by mid-century and less protection by late this century.
+
+Summary across all models and scenarios. See tables and sections below for more detailed information and definitions.
+
+Introduction
+The tables and charts below are specific to the gridded data extracted from the location of Fairbanks, indicated by a marker on the map above. The shaded region on the map is the nearest watershed (hydrological unit, level 12) and is only used to summarize wildfire data around this place.
+
+The average (mean) elevation near this point is 433ft above sea level. The minimum elevation is 381ft and the maximum elevation is 486ft, which should be kept in mind when interpreting these results.
+
+The sections below show output from different scientific simulations of possible future conditions for temperature, precipitation, hydrology, permafrost, flammability, vegetation change, and climate protection from spruce beetle outbreaks. These simulations use different Global Climate Models (GCMs)—climate models—such as the National Center for Atmospheric Research Community Climate System Model 4.0 (NCAR CCSM4).
+
+These climate models use Representative Concentration Pathways (RCPs) to compare different future greenhouse gas emissions scenarios. Compared to current emissions RCP 4.5 is a scenario representing a reduction in global emissions, while RCP 8.5 represents a scenario similar to, or possibly higher than, current global emissions trajectories. RCP 6.0 is between these two trajectories. Read more about climate models and RCPs.
+
+Some of the data has been averaged by season.
+
+Winter is December, January and February,
+Spring is March, April and May,
+Summer is June, July and August,
+Fall is September, October and November.
+Click the  icon in the upper–right of charts to get a hi-res download.
+
+You can display these visualizations in Imperial or metric units.
+
+Units
+Contents
+Temperature charts and tables with multiple models and scenarios, grouped decadally and into mid/late century
+Precipitation charts and tables with multiple models and scenarios, grouped decadally and into mid/late century
+Hydrology charts with multiple variables, models, and scenarios, grouped decadally and by month of the year.
+Permafrost with specific visualizations depending on the presence or absence of permafrost
+Wildfire charts of flammability and vegetation change with with multiple models and scenarios
+Climate Protection from Spruce Beetles visualizes the climate–related protection from spruce beetles in forested areas of Alaska
+Temperature
+This section shows projections for average (mean) temperature, compared with a historical range (1950–2009, CRU TS 4.0). Results are averaged by season (three month averages) for two specific climate models (MRI CGCM3 and NCAR CCSM4) as well as average of five models which perform well in Alaska and the Arctic. See information about the dataset shown here.
+
+Season
+Temperature, Fairbanks, 1950–2099
+Season	Historical (1950–2009)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4
+Winter	-5.4°F	0.1°F
++5.5
+1.9°F
++7.3
+1.2°F
++6.6
+5.4°F
++10.8
+2.8°F
++8.2
+4.8°F
++10.2
+5.5°F
++10.9
+12.2°F
++17.6
+Spring	29.8°F	33.4°F
++3.6
+36.5°F
++6.7
+34.3°F
++4.5
+37.6°F
++7.8
+34.2°F
++4.4
+37.9°F
++8.1
+36.7°F
++6.9
+42.4°F
++12.6
+Summer	58.8°F	61°F
++2.2
+63.7°F
++4.9
+61.7°F
++2.9
+65.1°F
++6.3
+61°F
++2.2
+65.1°F
++6.3
+63°F
++4.2
+68.4°F
++9.6
+Fall	25.5°F	29.7°F
++4.2
+31.1°F
++5.6
+31.6°F
++6.1
+33.6°F
++8.1
+32.2°F
++6.7
+33.1°F
++7.6
+35.1°F
++9.6
+37.8°F
++12.3
+Values show averages for the indicated date ranges. Red text means warmer temperatures. Read more about models and emissions scenarios.
+Temperature Indicators
+“Indicators” are a tool that help us understand data. We can link indicators to specific impacts or risks.
+Temperature Indicators, Fairbanks, 1950–2099
+Indicator	Historical (1988–2017)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4
+Very Cold Day Threshold Only 5 days in a year are colder than this	-35.7°F	-31.7°F
++4.0
+-30.8°F
++4.9
+-29.7°F
++6.0
+-26°F
++9.7
+-29°F
++6.7
+-25.6°F
++10.1
+-28.3°F
++7.4
+-22.9°F
++12.8
+Very Hot Day Threshold Only 5 days in a year are warmer than this	81.7°F	82.6°F
++0.9
+85.3°F
++3.6
+83.1°F
++1.4
+87.1°F
++5.4
+82.2°F
++0.5
+88.2°F
++6.5
+84.2°F
++2.5
+92.3°F
++10.6
+Summer Days Temperature above 77°F	18	23
++5
+33
++15
+24
++6
+43
++25
+22
++4
+41
++23
+26
++8
+68
++50
+Deep Winter Days Temperature below -22°F	23	15
+−8
+15
+−8
+13
+−10
+11
+−12
+14
+−9
+12
+−11
+11
+−12
+7
+−16
+Warm Spell Duration Index Heat wave metric: the number of hot days (> 90th percentile) occurring in a row following an initial warm spell period of six days.	10	36
++26
+45
++35
+39
++29
+61
++51
+43
++33
+54
++44
+66
++56
+114
++104
+Cold Spell Duration Index Cold spell metric: the number of cold days (< 10th percentile) occurring in a row following an initial cold spell period of six days.	8	4
+−4
+4
+−4
+4
+−4
+4
+−4
+3
+−5
+2
+−6
+0
+−8
+0
+−8
+Values indicate mean values for the time range specified. Red text means warmer, blue means colder. Bold text indicates greater change. Read more about the dataset and processing used to generate these data.
+
+Precipitation
+This section shows projections for average (mean) precipitation, compared with a historical range (1950–2009, CRU TS 4.0). Results are averaged by season (three month averages) for two specific climate models (MRI CGCM3 and NCAR CCSM4) as well as average of five models which perform well in Alaska and the Arctic. Models have higher uncertainty with regard to precipitation. See information about the dataset shown here.
+
+Season
+Precipitation, Fairbanks, 1950–2099
+Season	Historical (1950–2009)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4
+Winter	1.9in	2.1in
++15%
+2in
++6%
+2in
++6%
+2.2in
++21%
+2in
++11%
+2in
++9%
+2in
++9%
+2.3in
++26%
+Spring	1.3in	1.7in
++26%
+1.9in
++38%
+1.8in
++35%
+1.9in
++41%
+1.9in
++41%
+1.7in
++24%
+2.5in
++88%
+2in
++47%
+Summer	5.5in	6.1in
++10%
+6.5in
++19%
+7in
++26%
+6.9in
++25%
+6.7in
++22%
+6.9in
++25%
+8in
++45%
+7.8in
++41%
+Fall	2.7in	3.2in
++19%
+3.3in
++23%
+3.4in
++26%
+3.5in
++29%
+3.3in
++22%
+3.6in
++32%
+3.8in
++41%
+4in
++46%
+Values show averages for the indicated date ranges. Bold text indicates greater change. Read more about models and emissions scenarios.
+Precipitation Indicators
+“Indicators” are a tool that help us understand data. We can link indicators to specific impacts or risks.
+Precipitation Indicators, Fairbanks, 1950–2099
+Indicator	Historical (1988–2017)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4	MRI CGCM3	NCAR CCSM4
+Maximum 1-day Precipitation	0.8in	1.1in
++38%
+1.3in
++63%
+1.7in
++112%
+1.4in
++75%
+1.4in
++75%
+1.2in
++50%
+1.5in
++87%
+1.5in
++87%
+Maximum 5-day Precipitation	1.7in	2.4in
++41%
+2.6in
++53%
+3.5in
++106%
+3in
++76%
+3.1in
++82%
+3in
++76%
+3.3in
++94%
+3.5in
++106%
+Consecutive Wet Days > 0.04in precipitation	6	6
+0
+6
+0
+6
+0
+6
+0
+7
++1
+6
+0
+7
++1
+6
+0
+Consecutive Dry Days < 0.04in precipitation	41	55
++14
+71
++30
+63
++22
+57
++16
+54
++13
+56
++15
+57
++16
+56
++15
+Heavy precipitation days 1-day precipitation ≥ 0.39in	4	8
++4
+8
++4
+10
++6
+11
++7
+10
++6
+9
++5
+11
++7
+11
++7
+Values indicate mean values for the time range specified. Bold text indicates greater change. Read more about the dataset and processing used to generate these data.
+
+Hydrology
+This section provides access to historical and projected modeled decadal summaries of hydrologic data for Alaska at a resolution of 12km. These data were derived by applying the Variable Infiltration Capacity (VIC) model to downscaled CMIP5 historical and projected climate data, using RCP 4.5 and RCP 8.5 emissions scenarios.
+
+The tables below show the minimum, mean and maximum values for the annual means across 3 models: CanESM2, GFDL ESM2M, and NCAR CCSM4 and 2 scenarios: RCP 4.5 and RCP 8.5 for each of the given eras.
+
+Model
+Evapotranspiration, Fairbanks, 1950–2099, CanESM2 model
+Season	Historical (Modeled, 1950–2009)	Early–Century (2010–2039)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+Spring	2.1 in/season	2.6 in/season
++0.5
+2.7 in/season
++0.6
+2.9 in/season
++0.8
+3 in/season
++0.9
+3.1 in/season
++1
+3.6 in/season
++1.5
+Summer	6.6 in/season	7.4 in/season
++0.8
+7.6 in/season
++1
+7.9 in/season
++1.3
+8.8 in/season
++2.2
+8.5 in/season
++1.9
+9.9 in/season
++3.3
+Fall	0.8 in/season	0.8 in/season
+0
+0.9 in/season
++0.1
+1 in/season
++0.2
+1.1 in/season
++0.3
+1.1 in/season
++0.3
+1.2 in/season
++0.4
+Winter	0 in/season	0.1 in/season
++0.1
+0 in/season
+0
+0 in/season
+0
+0 in/season
+0
+0 in/season
+0
+0.1 in/season
++0.1
+Values show averages for the indicated date ranges. Bold text indicates greater change. Read more about models and emissions scenarios.
+Runoff, Fairbanks, 1950–2099, CanESM2 model
+Season	Historical (Modeled, 1950–2009)	Early–Century (2010–2039)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)	Low Emissions (RCP 4.5)	High Emissions (RCP 8.5)
+Spring	0.5 in/season	0.6 in/season
++0.1
+0.7 in/season
++0.2
+0.7 in/season
++0.2
+1.1 in/season
++0.6
+0.9 in/season
++0.4
+1.5 in/season
++1
+Summer	0.6 in/season	0.7 in/season
++0.1
+0.7 in/season
++0.1
+0.8 in/season
++0.2
+0.9 in/season
++0.3
+0.8 in/season
++0.2
+1.1 in/season
++0.5
+Fall	0.2 in/season	0.3 in/season
++0.1
+0.3 in/season
++0.1
+0.3 in/season
++0.1
+0.4 in/season
++0.2
+0.3 in/season
++0.1
+0.5 in/season
++0.3
+Winter	0 in/season	0 in/season
+0
+0 in/season
+0
+0 in/season
+0
+0.1 in/season
++0.1
+0 in/season
+0
+0.3 in/season
++0.3
+Values show averages for the indicated date ranges. Bold text indicates greater change. Read more about models and emissions scenarios.
+Evapotranspiration, Fairbanks, 1950–2100
+Model
+Scenario
+CanESM2, RCP 4.5
+Historical (1950–2009)	Early-Century (2010–2039)	Mid-Century (2040–2069)	Late-Century (2070–2099)
+Spring	
+Summer	
+Fall	
+Winter	
+Evapotranspiration
+<0 in/season
+≥0 in/season, <0.4 in/season
+≥0.4 in/season, <0.8 in/season
+≥0.8 in/season, <1.2 in/season
+≥1.2 in/season, <2.4 in/season
+≥2.4 in/season, <3.5 in/season
+≥3.5 in/season
+Runoff, Fairbanks, 1950–2100
+Model
+Scenario
+CanESM2, RCP 4.5
+Historical (1950–2009)	Early-Century (2010–2039)	Mid-Century (2040–2069)	Late-Century (2070–2099)
+Spring	
+Summer	
+Fall	
+Winter	
+Runoff
+<0.6 in/season
+≥0.6 in/season, <1.2 in/season
+≥1.2 in/season, <2.4 in/season
+≥2.4 in/season, <3.5 in/season
+≥3.5 in/season
+
+Permafrost
+The following maps show the projected mean annual ground temperature over time at a depth of about 3 feet. See information about the dataset shown here.
+Mean annual ground temperature at about 3 feet depth, Fairbanks, 2021–2100
+Model
+2021-2039
+GFDL CM3, RCP 4.5
+2040-2069
+GFDL CM3, RCP 4.5
+2070-2099
+GFDL CM3, RCP 4.5
+2021-2039
+GFDL CM3, RCP 8.5
+2040-2069
+GFDL CM3, RCP 8.5
+2070-2099
+GFDL CM3, RCP 8.5
+This table is a legend for the maps above.
+
+Category	Mean Annual Ground Temperature
+ Continuous Permafrost	<21°F
+ Cold Discontinuous	≥21°F, <25°F
+ Discontinuous	≥25°F, <28°F
+ Cold Sporadic	≥28°F, <30°F
+ Sporadic	≥30°F, <32°F
+ Permafrost Possible	≥32°F, <34°F
+ Permafrost Unlikely	≥34°F, <36°F
+ No Permafrost	≥36°F
+As permafrost thaws, the ground depth to the top of the permafrost layer increases. The following chart shows how this depth is projected to change over time.
+
+Wildfire: Flammability and Vegetation
+The following maps and charts show the historical and projected flammability and vegetation change for this location, computed using the ALFRESCO model.
+
+Flammability is defined as the percentage of times the pixel at this location has burned in model simulations. All data shown, including historical time periods, are model ouputs.
+
+Data shown in the charts below are the average for the watershed (HUC level 12 ID 190803060909) which contains the pixel location for Fairbanks.
+
+Water, urbanized areas, and mountainous regions are not modeled in the ALFRESCO models. Pixels which are not modeled are shown as white.
+
+See information about the dataset shown here.
+
+Flammability, Fairbanks, 1950–2099
+Model
+1950-1979
+(Modeled) Historical
+1980-2008
+(Modeled) Historical
+2010-2039
+NCAR CCSM4, RCP 4.5
+2040-2069
+NCAR CCSM4, RCP 4.5
+2070-2099
+NCAR CCSM4, RCP 4.5
+2010-2039
+NCAR CCSM4, RCP 8.5
+2040-2069
+NCAR CCSM4, RCP 8.5
+2070-2099
+NCAR CCSM4, RCP 8.5
+This table is a legend for the maps above, and explains different categories of modeled fire activity shown on the chart below. These categories are also used in the short blurb in the introduction to this report.
+
+Flammability	Interpretation
+ Not modeled or no data	-	This pixel was not modeled or is not included in the dataset
+ Very Low	<0.2%	Fire is absent or very rare
+ Low	≥0.2%, <0.5%	Fire is rare, and unlikely to be the primary driver of vegetation patterns on this landscape
+ Moderate	≥0.5%, <1%	Fire is frequent enough to partially define the vegetation patterns on this landscape
+ High	≥1%, <2%	Fire is more frequent and more dominant in determining vegetation patterns on this landscape
+ Very High	≥2%	Fire is highly frequent and dominates the vegetation patterns on this landscape
+Hovering over the future eras shown on the chart shows the difference between 1980–2009 and the future era.
+
+
+Due to the inherent uncertainty involved in predicting vegetation transitions driven by climate and wildfire or by climate alone, the maps below should not be interpreted as vegetation predictions at specific locations, but rather as an indicator of likely general trends in ecological suitability for particular vegetation type over time. Each map–pixel shows the most commonly predicted vegetation type (modal value) based on 200 model runs per year across all years in the map’s date range. Some ecological regions in the far north are projected to undergo marked changes, and others little or no change.
+
+Vegetation type, Fairbanks, 1950–2099
+Model
+1950-2008
+(Modeled) Historical
+2010-2039
+NCAR CCSM4, RCP 4.5
+2040-2069
+NCAR CCSM4, RCP 4.5
+2070-2099
+NCAR CCSM4, RCP 4.5
+2010-2039
+NCAR CCSM4, RCP 8.5
+2040-2069
+NCAR CCSM4, RCP 8.5
+2070-2099
+NCAR CCSM4, RCP 8.5
+Not Modeled
+Barren/Lichen/Moss
+Black Spruce
+Deciduous Forest
+Graminoid Tundra
+Shrub Tundra
+Temperate Rainforest
+Wetland Tundra
+White Spruce
+Model
+
+Climate Protection from Spruce Beetles
+Alaska’s cold climate has historically helped limit spruce beetle outbreaks, but warming conditions are affecting this balance.
+
+These maps display three broad levels of historical and projected climate-related protection from spruce bark beetle (Dendroctonus rufipennis) outbreaks in “forested regions of Alaska” as defined by the US Forest Service.
+
+See more details about how the model was developed
+
+Climate Protection from Spruce Beetles, Low Snowpack, Fairbanks, 1988–2099
+Historical modeled climate protection (Daymet, 1988–2017) is high.
+Model	Early–Century (2010–2039)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+RCP 4.5	RCP 8.5	RCP 4.5	RCP 8.5	RCP 4.5	RCP 8.5
+NCAR CCSM4	high	high	high	high	high	high
+GFDL ESM2M	high	high	high	high	high	high
+HadGEM2 ES	high	high	high	high	high	high
+MRI CGCM3	high	high	high	high	high	high
+Values show climate–related protection from spruce beetles for the indicated date ranges over all models and emission scenarios. Read more about models and emissions scenarios.
+Climate Protection from Spruce Beetles, Medium Snowpack, Fairbanks, 1988–2099
+Historical modeled climate protection (Daymet, 1988–2017) is high.
+Model	Early–Century (2010–2039)	Mid–Century (2040–2069)	Long–Term (2070–2099)
+RCP 4.5	RCP 8.5	RCP 4.5	RCP 8.5	RCP 4.5	RCP 8.5
+NCAR CCSM4	high	high	high	high	high	none
+GFDL ESM2M	high	high	high	high	minimal	minimal
+HadGEM2 ES	high	high	high	high	high	high
+MRI CGCM3	high	high	high	high	high	high
+Values show climate–related protection from spruce beetles for the indicated date ranges over all models and emission scenarios. Read more about models and emissions scenarios.
+Climate Protection from Spruce Beetles, Fairbanks, 1988–2099
+Model
+Snowpack Level
+1988-2017
+Daymet,
+Historical
+Medium Snowpack
+2010-2039
+NCAR-CCSM4,
+RCP 4.5
+Medium Snowpack
+2040-2069
+NCAR-CCSM4,
+RCP 4.5
+Medium Snowpack
+2070-2099
+NCAR-CCSM4,
+RCP 4.5
+Medium Snowpack
+2010-2039
+NCAR-CCSM4,
+RCP 8.5
+Medium Snowpack
+2040-2069
+NCAR-CCSM4,
+RCP 8.5
+Medium Snowpack
+2070-2099
+NCAR-CCSM4,
+RCP 8.5
+Medium Snowpack
+Not modeled or no data
+High Protection
+Minimal Protection
+No Protection
+
+UAF Logo
+Developed by the Scenarios Network for Alaska + Arctic Planning at the International Arctic Research Center.
+
+Funding was provided by the Alaska Climate Adaptation Science Center and the United States Geological Survey.
+
+Please contact uaf-snap-data-tools@alaska.edu with questions or comments. Visit the SNAP website to see all of our climate tools.
+
+Usage of data provided through this tool is subject to license constraints. See the data page for details.
+
+UA is committed to providing accessible websites. Learn more about UA's notice of web accessibility. If we can help you access this website’s content, please email us at uaf-snap-data-tools@alaska.edu.
+
+Copyright © 2024 University of Alaska Fairbanks. All rights reserved.
+UA is an affirmative action / equal opportunity employer, educational institution and provider and prohibits illegal discrimination against any individual.
+Statement of Nondiscrimination and Privacy Statement
