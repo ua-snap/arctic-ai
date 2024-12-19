@@ -11,41 +11,46 @@ Actual Response: {actual_response}
 
 
 ### Positive test cases. We provide the correct answer and expect the model to agree.
-def test_arctic_warming_rate_pos():
+def test_nome_warming_rate_pos():
     assert query_and_validate(
-        question="How fast is the Arctic warming? (Answer with the number only, plus 'times faster' or 'times slower')",
-        expected_response="3 times faster",
+        question="By how much with the average annual temperature change in Nome by 2100? Answer with the number only, plus 'degrees warmer' or 'degrees cooler'.",
+        expected_response="14 degrees warmer",
     )
 
-def test_alaska_precip_trend_pos():
+
+def test_nome_precip_month_pos():
     assert query_and_validate(
-        question="In general, is precipitation increasing or decreasing across Alaska? (Answer with the word 'increasing' or 'decreasing')",
-        expected_response="Increasing",
+        question="What time(s) of year will have more precipitation in Nome? Answer using only the following words: 'winter', 'spring', 'summer', 'fall'.",
+        expected_response="Fall",
     )
 
-def test_fbx_freezing_rain_trend_pos():
+
+def test_fbx_elevation_pos():
     assert query_and_validate(
-        question="In Fairbanks, are there more freezing rain events now than in the past? (Answer with a simple 'yes' or 'no')",
-        expected_response="Yes",
+        question="How many feet above sea level is Fairbanks? Answer this question using only a number and the unit of measurement. Don't use abbreviations in the unit of measurement.",
+        expected_response="433 feet",
     )
+
 
 ### Negative test cases. We provide the incorrect answer and expect the model to disagree.
-def test_arctic_warming_rate_neg():
+def test_nome_warming_rate_neg():
     assert not query_and_validate(
-        question="How fast is the Arctic warming? (Answer with the number only, plus 'times faster' or 'times slower')",
-        expected_response="2 times faster",
+        question="By how much with the average annual temperature change in Nome by 2100? Answer with the number only, plus 'degrees warmer' or 'degrees cooler'.",
+        expected_response="24 degrees warmer",
     )
 
-def test_alaska_precip_trend_neg():
+
+def test_nome_precip_month_neg():
     assert not query_and_validate(
-        question="In general, is precipitation increasing or decreasing across Alaska? (Answer with the word 'increasing' or 'decreasing')",
-        expected_response="Decreasing",
+        question="What time(s) of year will have more precipitation in Nome? Answer using only the following words: 'winter', 'spring', 'summer', 'fall'.",
+        expected_response="Winter",
     )
 
-def test_fbx_freezing_rain_trend_neg():
+
+def test_fbx_elevation_neg():
     assert not query_and_validate(
-        question="In Fairbanks, are there more freezing rain events now than in the past? (Answer with a simple 'yes' or 'no')",
-        expected_response="No",
+        question="How many feet above sea level is Fairbanks? Answer this question using only a number and the unit of measurement. Dont't use abbreviations in the unit of measurement.",
+        expected_response="400 feet",
     )
 
 
