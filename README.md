@@ -27,7 +27,9 @@ conda create --name rag --file requirements.txt
 - Data format can be PDF, Markdown, JSON, HTML, etc. Check out the different branches in this repo to see the changes required in `populate_database.py` when using different file types, and explore what the loading and chunking process looks like for the different file types in `explore_loading_<filetype>.ipynb` notebooks. The `main` branch uses PDFs. 
 
 ### Query the LLM
-- Run `python query_data.py` plus a string query to ask a question. You will recieve a response, along with the full prompt to the LLM including the top 5 text chunks that make up the RAG component of the query, and a list of explicit references for each of those chunks. The references include the file name, the page number, and the chunk on that page. The prompt can be removed from the response by commenting out the `print(prompt)` line in `query_data.py`.
+- Run `python query_data.py` plus a string query to ask a question. You will recieve a response, along with the full prompt to the LLM including the top 5 text chunks that make up the RAG component of the query, and a list of explicit references for each of those chunks. The references include the file name, the page number, and the chunk on that page. (If desired, the prompt can be removed from the response by commenting out the `print(prompt)` line in `query_data.py`.)
+
+#### Asking a question that we know is answered in the provided documents:
 
 ```
 python query_data.py "How fast is the Arctic warming?"
@@ -93,9 +95,129 @@ pronounced
 
 Answer the question based on the above context: How fast is the Arctic warming?
 
-Response: The Arctic is warming approximately three times faster than the global mean since 1980, as per observational data and climate model simulations.
+Response: The Arctic is experiencing a significant increase in temperature, warming approximately three times faster than the global mean since 1980 according to observational data and climate model simulations. This phenomenon has been termed Arctic Amplification. It's important to note that these figures are after accounting for natural variability.
+
 Sources: ['data/ArcticReportCard_full_report2024.pdf:9:3', 'data/ArcticReportCard_full_report2024.pdf:9:4', 'data/ArcticReportCard_full_report2024.pdf:3:0', 'data/ArcticReportCard_full_report2024.pdf:6:1', 'data/ArcticReportCard_full_report2024.pdf:3:1']
 ```
+
+#### Asking a question that we know is NOT answered in the provided documents:
+
+```
+python query_data.py "Will there be salmon in the Yukon River in 2050?"
+
+Human: 
+Answer the question based only on the following context:
+
+disease are also likely important factors. The Yukon 
+chum salmon collapse was linked to lower food 
+quality during recent marine heatwaves.
+Impacts on fisheries
+The combined Chinook and chum declines resulted 
+in the first ever complete closures of subsistence 
+fishing for salmon in the Yukon Basin in 2021 
+and 2022. The closures were highly disruptive to 
+Indigenous people in the region who have been 
+linked to salmon for thousands of years. 
+The declines also heightened concerns over salmon 
+bycatch in marine fisheries and led to calls for greater inclusion of Indigenous Tribes and organizations in 
+monitoring and management decisions. 
+Large sockeye and pink runs benefited many fisheries, but even these had disruptive effects. The record high
+
+---
+
+18
+Chinook salmon populations have been declining 
+for decades all over the state. In contrast, pink and 
+sockeye salmon have returned in above-average 
+numbers statewide, but these returns have been 
+highly variable, punctuated by extreme highs and 
+lows. For example, sockeye salmon returned to 
+Bristol Bay in record high numbers in 2022. 
+Chinook salmon declines in Alaska are linked to 
+climate extremes, including marine heatwaves, 
+high river temperatures during the spawning run, 
+and heavy fall rains when eggs are in the gravel. 
+Population declines are also linked to declining 
+adult body sizes, associated with more competition 
+at sea with highly abundant pink and chum salmon. 
+Climate-linked changes in predators, prey and 
+disease are also likely important factors. The Yukon
+
+---
+
+and subsistence fishery closures, have an 
+economic impact in rural Alaska by reducing 
+access to sustainable livelihoods. 
+These aspects of salmon well-being in 
+an Indigenous context are often under 
+accounted for in fisheries management.
+FEWER EGGS DEPOSITED IN RIVERS 
+Chinook salmon — and to a lesser extent chum and sockeye 
+salmon — have become smaller since the 1970s (top right 
+graph). In Chinook, this is associated with 15% fewer eggs 
+per female (bottom left graph) deposited in rivers.
+25
+2020s
+1970s
+Harmony Wayner
+26
+950 mm salmon length
+500
+Sockeye
+6,000
+2020
+1970
+8,500 eggs per female Chinook
+Chinook
+Chum
+
+---
+
+ANIMALS & FISH
+HEAT & SALMON DIE-OFFS
+In June and July of 2019, thousands of salmon died as they 
+migrated to their spawning grounds of western Alaska. 
+Although the cause is not confirmed, the leading suspect 
+is unusually warm water temperatures above the range that 
+causes stress to adult salmon. Warm water causes several 
+problems: it contains less life-sustaining dissolved oxygen 
+than cool water, greatly accelerates metabolism, resulting 
+in faster burning of stored energy in the migrating fish, and 
+promotes the growth of parasites and fungus that can weaken 
+fish. Surveys of the Koyukuk River (a major tributary of the 
+Yukon River) confirmed thousands of dead summer Chum 
+salmon, which most likely succumbed to the heat, as the river
+
+---
+
+with more competition at sea, lower quality food, and possibly more marine predators selecting the largest fish.
+Salmon and well-being
+Salmon are a keystone of cultural, 
+spiritual, relational, and physical health 
+in Alaska, allowing Indigenous peoples to 
+live their traditional way of life. For many 
+coastal and river communities salmon 
+epitomize well-being. 
+Without access to salmon, Indigenous 
+peoples lose more than healthy food in 
+rural villages where groceries are limited 
+and prices are astronomical. There is also 
+less sharing with others, time with family 
+and knowledge passed from generation 
+to generation through the act of catching, 
+preparing and sharing fish. Dramatic salmon 
+changes, and the associated commercial 
+and subsistence fishery closures, have an
+
+---
+
+Answer the question based on the above context: Will there be salmon in the Yukon River in 2050?
+
+Response: The provided context does not provide specific information about whether or not there will be salmon in the Yukon River in 2050. However, it discusses ongoing issues such as climate extremes and marine heatwaves which have been linked to declines in various salmon populations. It also mentions that these changes are likely disruptive to Indigenous peopcks who rely on salmon for their livelihoods and cultural practices. Therefore, while we can't predict a specific scenario for 2050 based on this context, it does indicate challenges for the future of salmon in rivers like Yukon due to environmental changes and human impact.
+
+Sources: ['data/Alaskas-Changing-Environment-2024.pdf:17:1', 'data/Alaskas-Changing-Environment-2024.pdf:17:0', 'data/Alaskas-Changing-Environment-2024.pdf:18:2', 'data/Alaskas-Changing-Environment_2019_WEB.pdf:12:0', 'data/Alaskas-Changing-Environment-2024.pdf:18:1']
+```
+
 
 ### Test the output
 
