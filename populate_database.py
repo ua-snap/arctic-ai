@@ -49,32 +49,39 @@ def split_documents(documents: list[Document]):
 
 
 def add_to_chroma(chunks: list[Document]):
-    # Load the existing database.
+    # load the existing database (or create a new one if it doesn't exist)
     db = Chroma(
         persist_directory=CHROMA_PATH, embedding_function=get_embedding_function()
     )
 
-    # Calculate Page IDs.
+    # add URLs
     chunks_with_ids = calculate_chunk_ids(chunks)
 
-    # Add or Update the documents.
-    existing_items = db.get(include=[])  # IDs are always included by default
-    existing_ids = set(existing_items["ids"])
-    print(f"Number of existing documents in DB: {len(existing_ids)}")
+    db.add_documents(chunks_with_ids)
+    db.persist()
 
-    # Only add documents that don't exist in the DB.
-    new_chunks = []
-    for chunk in chunks_with_ids:
-        if chunk.metadata["id"] not in existing_ids:
-            new_chunks.append(chunk)
+    print("✅ Database populated!")
 
-    if len(new_chunks):
-        print(f"👉 Adding new documents: {len(new_chunks)}")
-        new_chunk_ids = [chunk.metadata["id"] for chunk in new_chunks]
-        db.add_documents(new_chunks, ids=new_chunk_ids)
-        db.persist()
-    else:
-        print("✅ No new documents to add")
+    # remove update functionality since we are not using unique IDs for each chunk
+
+    # # Add or Update the documents.
+    # existing_items = db.get(include=[])  # IDs are always included by default
+    # existing_ids = set(existing_items["ids"])
+    # print(f"Number of existing documents in DB: {len(existing_ids)}")
+
+    # # Only add documents that don't exist in the DB.
+    # new_chunks = []
+    # for chunk in chunks_with_ids:
+    #     if chunk.metadata["id"] not in existing_ids:
+    #         new_chunks.append(chunk)
+
+    # if len(new_chunks):
+    #     print(f"👉 Adding new documents: {len(new_chunks)}")
+    #     new_chunk_ids = [chunk.metadata["id"] for chunk in new_chunks]
+    #     db.add_documents(new_chunks, ids=new_chunk_ids)
+    #     db.persist()
+    # else:
+    #     print("✅ No new documents to add")
 
 
 def calculate_chunk_ids(chunks):

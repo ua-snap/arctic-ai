@@ -6,7 +6,8 @@ from langchain_community.llms.ollama import Ollama
 from get_embedding_function import get_embedding_function
 
 import warnings
-warnings.filterwarnings("ignore", category=DeprecationWarning) 
+
+warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 CHROMA_PATH = "chroma"
 
@@ -47,7 +48,7 @@ def query_rag(query_text: str):
     model = Ollama(model="phi3:medium")
     response_text = model.invoke(prompt)
 
-    sources = [doc.metadata.get("id", None) for doc, _score in results]
+    sources = [doc.metadata.get("url", None) for doc, _score in results]
     formatted_response = f"Response: {response_text}\nSources: {sources}"
     print(formatted_response)
     return response_text

@@ -7,21 +7,9 @@ Places
 Northern Climate Reports
 Ecological futures in stories, charts, and data
 
-A changing climate is altering Northern landscapes.
-Explore these changes with easy-to-understand climate model projections.
+A changing climate is altering Northern landscapes. Explore these changes with easy-to-understand climate model projections.
 Projected Conditions for Anchorage (Dgheyaytnu)
-In Anchorage (Dgheyaytnu),
-average annual temperatures
-may increase by about 13°F by the end of the century.
-
-Winter temperatures are projected to increase the most (+16°F).
-
-Models have higher uncertainty with regard to precipitation,
-but spring is likely to have more precipitation (+48%).
-
-In the past, this area had very low flammability. By the mid–century, flammability may increase to low. By the late–century, flammability may increase to moderate compared with historical flammability.
-
-Based on climate and fire-driven shifts, vegetation in this area may be notably different by the end of the century.
+In Anchorage (Dgheyaytnu), average annual temperatures may increase by about 13°F by the end of the century. Winter temperatures are projected to increase the most (+16°F). Models have higher uncertainty with regard to precipitation, but spring is likely to have more precipitation (+48%). In the past, this area had very low flammability. By the mid–century, flammability may increase to low. By the late–century, flammability may increase to moderate compared with historical flammability. Based on climate and fire-driven shifts, vegetation in this area may be notably different by the end of the century. 
 
 Summary across all models and scenarios. See tables and sections below for more detailed information and definitions.
 
@@ -36,10 +24,8 @@ These climate models use Representative Concentration Pathways (RCPs) to compare
 
 Some of the data has been averaged by season.
 
-Winter is December, January and February,
-Spring is March, April and May,
-Summer is June, July and August,
-Fall is September, October and November.
+Winter is December, January and February, Spring is March, April and May, Summer is June, July and August, Fall is September, October and November.
+
 Click the  icon in the upper–right of charts to get a hi-res download.
 
 You can display these visualizations in Imperial or metric units.
