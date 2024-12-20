@@ -34,14 +34,33 @@ def main():
 
 
 def load_documents():
-    document_loader = DirectoryLoader(DATA_PATH, glob="**/*.md")
-    return document_loader.load()
+    # document_loader = DirectoryLoader(DATA_PATH, glob="**/*.md")
+    # return document_loader.load()
+
+    # load any markdown documents in the DATA_PATH, and return them as a list of strings
+    documents = []
+    for root, dirs, files in os.walk(DATA_PATH):
+        for file in files:
+            if file.endswith(".md"):
+                with open(os.path.join(root, file), "r") as f:
+                    documents.append(f.read())
+    return documents
 
 
-def split_documents(documents: list[Document]):
-    headers = [("#", "Header 1")]
-    text_splitter = MarkdownHeaderTextSplitter(headers, strip_headers=False)
-    return text_splitter.split_documents(documents)
+def split_documents(documents):
+    headers_to_split_on = [
+        ("#", "Community"),
+        ("##", "Topic"),
+        ("###", "Subtopic"),
+    ]
+
+    text_splitter = MarkdownHeaderTextSplitter(headers_to_split_on, strip_headers=True)
+    chunks = []
+    for doc in documents:
+        # split documents and add chunks to the list
+        chunks.extend(text_splitter.split_text(doc))
+
+    return chunks
 
 
 def add_to_chroma(chunks: list[Document]):
@@ -86,7 +105,7 @@ def calculate_chunk_ids(chunks):
     # These are not unique to each chunk, but that is OK - we just want to provide a reference to the source website.
 
     for chunk in chunks:
-        chunk.metadata["url"] = urls[chunk.metadata["source"]]
+        chunk.metadata["url"] = urls[chunk.metadata["Community"]]
 
     return chunks
 
