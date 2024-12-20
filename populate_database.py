@@ -2,7 +2,7 @@ import argparse
 import os
 import shutil
 from langchain_community.document_loaders import DirectoryLoader
-from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_text_splitters import MarkdownHeaderTextSplitter
 from langchain.schema.document import Document
 from get_embedding_function import get_embedding_function
 from langchain_community.vectorstores.chroma import Chroma
@@ -34,17 +34,13 @@ def main():
 
 
 def load_documents():
-    document_loader = DirectoryLoader(DATA_PATH, glob="**/*.txt")
+    document_loader = DirectoryLoader(DATA_PATH, glob="**/*.md")
     return document_loader.load()
 
 
 def split_documents(documents: list[Document]):
-    text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=800,
-        chunk_overlap=80,
-        length_function=len,
-        is_separator_regex=False,
-    )
+    headers = [("#", "Header 1")]
+    text_splitter = MarkdownHeaderTextSplitter(headers, strip_headers=False)
     return text_splitter.split_documents(documents)
 
 
