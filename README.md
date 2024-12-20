@@ -16,11 +16,11 @@ ollama pull phi3:medium
 ```
 ollama serve
 ```
-- Build a conda environment from the `requirements.txt`
+- Build a conda environment from the `environment.yml`
 ```
-conda create --name rag --file requirements.txt
+conda env create -f environment.yml
 ```
-- You might need to install more packages as you run the code.
+- Fair warning, you might need to install more packages as you run the code!
 
 ### Build the `chroma` vector database
 - Put your data files in the `/data` folder, and run `python populate_database.py`. 
