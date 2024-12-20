@@ -1,0 +1,16 @@
+name: ai
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pypdf
+  - langchain
+  - langchain-community
+  - chromadb # Vector storage
+  - pytest
+  - boto3
+  - ipykernel
+  - unstructured
+  - pip
+  - pip:
+    - "unstructured[md]"
