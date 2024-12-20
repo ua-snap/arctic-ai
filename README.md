@@ -16,9 +16,10 @@ ollama pull phi3:medium
 ```
 ollama serve
 ```
-- Build a conda environment from the `environment.yml`
+- Build and activate the conda environment from the `environment.yml`
 ```
 conda env create -f environment.yml
+conda activate ai
 ```
 - Fair warning, you might need to install more packages as you run the code!
 
