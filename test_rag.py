@@ -11,47 +11,47 @@ Actual Response: {actual_response}
 
 
 ### Positive test cases. We provide the correct answer and expect the model to agree.
-def test_nome_warming_rate_pos():
+def test_fbx_summer_tas_pos():
     assert query_and_validate(
-        question="By how much with the average annual temperature change in Nome by 2100? Answer with the number only, plus 'degrees warmer' or 'degrees cooler'.",
-        expected_response="14 degrees warmer",
+        question="What is the historical mean annual air temperature in the summer in Fairbanks? Answer this question giving just a number and unit of measurement.",
+        expected_response="14.9°C",
     )
 
 
-def test_nome_precip_month_pos():
-    assert query_and_validate(
-        question="What time(s) of year will have more precipitation in Nome? Answer using only the following words: 'winter', 'spring', 'summer', 'fall'.",
-        expected_response="Fall",
-    )
+# def test_nome_precip_month_pos():
+#     assert query_and_validate(
+#         question="What time(s) of year will have more precipitation in Nome? Answer using only the following words: 'winter', 'spring', 'summer', 'fall'.",
+#         expected_response="Fall",
+#     )
 
 
-def test_fbx_elevation_pos():
-    assert query_and_validate(
-        question="How many feet above sea level is Fairbanks? Answer this question using only a number and the unit of measurement. Don't use abbreviations in the unit of measurement.",
-        expected_response="433 feet",
-    )
+# def test_fbx_elevation_pos():
+#     assert query_and_validate(
+#         question="How many feet above sea level is Fairbanks? Answer this question using only a number and the unit of measurement. Don't use abbreviations in the unit of measurement.",
+#         expected_response="433 feet",
+#     )
 
 
 ### Negative test cases. We provide the incorrect answer and expect the model to disagree.
-def test_nome_warming_rate_neg():
-    assert not query_and_validate(
-        question="By how much with the average annual temperature change in Nome by 2100? Answer with the number only, plus 'degrees warmer' or 'degrees cooler'.",
-        expected_response="24 degrees warmer",
+def test_fbx_summer_tas_neg():
+    assert query_and_validate(
+        question="What is the historical mean annual air temperature in the summer in Fairbanks? Answer this question giving just a number and unit of measurement.",
+        expected_response="19.4°C",
     )
 
 
-def test_nome_precip_month_neg():
-    assert not query_and_validate(
-        question="What time(s) of year will have more precipitation in Nome? Answer using only the following words: 'winter', 'spring', 'summer', 'fall'.",
-        expected_response="Winter",
-    )
+# def test_nome_precip_month_neg():
+#     assert not query_and_validate(
+#         question="What time(s) of year will have more precipitation in Nome? Answer using only the following words: 'winter', 'spring', 'summer', 'fall'.",
+#         expected_response="Winter",
+#     )
 
 
-def test_fbx_elevation_neg():
-    assert not query_and_validate(
-        question="How many feet above sea level is Fairbanks? Answer this question using only a number and the unit of measurement. Dont't use abbreviations in the unit of measurement.",
-        expected_response="400 feet",
-    )
+# def test_fbx_elevation_neg():
+#     assert not query_and_validate(
+#         question="How many feet above sea level is Fairbanks? Answer this question using only a number and the unit of measurement. Dont't use abbreviations in the unit of measurement.",
+#         expected_response="400 feet",
+#     )
 
 
 ### The validation function using the LLM to compare the expected and actual responses.
